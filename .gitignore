@@ -25,3 +25,9 @@ replay_pid*
 
 # IDE project metadata
 .idea/
+
+# macOS
+.DS_Store
+
+# Local documents that may contain internal/private information
+*.docx
